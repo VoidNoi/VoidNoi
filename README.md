@@ -28,7 +28,6 @@
 <h3>Currently...</h3>
 <ul>
   <li>Learning Rust</li>
-  <li>Making a forum website</li>
 </ul>
 
 <!--
