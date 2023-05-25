@@ -15,7 +15,7 @@
   
   
 </p>
-<h2>What I use on a daily basis <img src=https://user-images.githubusercontent.com/83523507/218125459-f3fb6331-2b65-4b9b-91f3-f148923e0fd5.gif height="35"/>
+<h2>What I use daily <img src=https://user-images.githubusercontent.com/83523507/218125459-f3fb6331-2b65-4b9b-91f3-f148923e0fd5.gif height="35"/>
 
 </h2>
 <ul>
