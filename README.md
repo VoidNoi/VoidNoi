@@ -19,8 +19,9 @@
 
 </h2>
 <ul>
-  <li>i3WM</li>
-  <li>VSCodium</li>
-  <li>micro</li>
+  <li>NixOS</li>
+  <li>Hyprland</li>
+  <li>Emacs</li>
+  <li>NeoVim</li>
   <li>GIMP</li>
 </ul>
