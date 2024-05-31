@@ -20,7 +20,7 @@
 </h2>
 <ul>
   <li>NixOS</li>
-  <li>Hyprland</li>
+  <li>Sway</li>
   <li>Emacs</li>
   <li>NeoVim</li>
   <li>GIMP</li>
